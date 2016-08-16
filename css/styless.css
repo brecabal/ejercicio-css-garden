@@ -1,0 +1,35 @@
+body{
+	background:url(../img/bicycle-238501_960_720.jpg);font-family: Arial; font-size: 20px;
+}
+h1{
+	color:#097AB7;font-family:cursive; text-align: center;border-style: outset;border-radius: 20px;
+}
+h2{
+	color:#097AB7;font-family:cursive;text-align: center;
+}
+h3{
+	color:#097AB7;font-family:cursive;
+}
+.intro{
+	font-family: Arial;
+}
+.preamble{
+	font-family: Verdana;background: #D9EB68;
+}
+.participation{
+	background: #D9EB68; color:#000000
+}
+div h3 {
+	border-radius: 50px;
+	background: #960D59;
+}
+a{
+	color: #590D96;
+}
+div {
+    border: 1px solid blue;
+    margin-left: 100px;
+}
+div .requirements{
+	background: #D9EB68;
+}
